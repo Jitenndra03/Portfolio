@@ -3,9 +3,19 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 //import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+// export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `Greetings! I am Jitendra Singh, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Pranveer Singh Institute of Technology. Originating from Kanpur, my educational journey began at Guru Har Rai Academy, where I developed a solid foundation in academic excellence.
+
+My technical expertise is centered around the innovative fields of AI and machine learning. I am dedicated to exploring the vast potential of these technologies, delving into complex algorithms, data analysis, and machine learning models. My academic pursuits are complemented by hands-on experience in coding, developing AI-driven applications, and participating in various technical projects.
+
+Beyond academics, I channel my creativity through sketching, focusing primarily on anime characters. This artistic pursuit enhances my problem-solving skills and fuels my imagination, which I find beneficial in my technical work. Additionally, I maintain a disciplined lifestyle through basketball, a sport I have been passionate about since my school days. Competing at the state level and being a former member of my school basketball team taught me the importance of teamwork, strategy, and perseverance.
+
+Known for my commitment to meeting deadlines and my dedication to continuous learning, I strive to contribute meaningfully to the field of AI and machine learning. My teachers and peers recognize my sincerity and dedication, qualities that drive me to excel in my academic and technical endeavors.
+
+Thank you for taking the time to learn more about me. I look forward to connecting and sharing my journey in the fascinating world of technology.
+
+`;
 
 export const EXPERIENCES = [
   {
