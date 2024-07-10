@@ -1,15 +1,12 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-//import project4 from "../assets/projects/project-4.jpg";
+// import project4 from "../assets/projects/project-4.jpg";
 
-// export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `Greetings! I am Jitendra Singh, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Pranveer Singh Institute of Technology. Originating from Kanpur, my educational journey began at Guru Har Rai Academy, where I developed a solid foundation in academic excellence.
-
+export const ABOUT_TEXT = `Greetings! I am Jitendra Singh, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Pranveer Singh Institute of Technology. 
 My technical expertise is centered around the innovative fields of AI and machine learning. I am dedicated to exploring the vast potential of these technologies, delving into complex algorithms, data analysis, and machine learning models. My academic pursuits are complemented by hands-on experience in coding, developing AI-driven applications, and participating in various technical projects.
-
-Beyond academics, I channel my creativity through sketching, focusing primarily on anime characters. This artistic pursuit enhances my problem-solving skills and fuels my imagination, which I find beneficial in my technical work. Additionally, I maintain a disciplined lifestyle through basketball, a sport I have been passionate about since my school days. Competing at the state level and being a former member of my school basketball team taught me the importance of teamwork, strategy, and perseverance.
 
 Known for my commitment to meeting deadlines and my dedication to continuous learning, I strive to contribute meaningfully to the field of AI and machine learning. My teachers and peers recognize my sincerity and dedication, qualities that drive me to excel in my academic and technical endeavors.
 
@@ -53,7 +50,7 @@ export const PROJECTS = [
     title: "Mobile Detection",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "A program to detect mobile phones in calssrooms, seminar halls to prevent students from using them during lectures.",
     technologies: ["Python", "OpenCV", "YOLO", "tkinter", "Google Colab"],
   },
   {
@@ -81,6 +78,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "A.no. 402, Bhaba Nagar, Sanigawa Road, Kanpur, Uttar Pradesh, India ",
-  phoneNo: "+91 8542950010 ",
+  phoneNo: "+91 85429 50010 ",
   email: "jitendrasingh6013815@gmail.com",
 };
