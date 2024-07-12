@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 // import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Hi! I'm Jitendra Singh, a student passionate about machine learning. I have a strong foundation in algorithms, data structures, and statistical analysis. I'm eager to explore the intricacies of machine learning models and their real-world applications, and I'm excited to connect with like-minded individuals and professionals`;
 
 export const ABOUT_TEXT = `Greetings! I am Jitendra Singh, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Pranveer Singh Institute of Technology. 
 My technical expertise is centered around the innovative fields of AI and machine learning. I am dedicated to exploring the vast potential of these technologies, delving into complex algorithms, data analysis, and machine learning models. My academic pursuits are complemented by hands-on experience in coding, developing AI-driven applications, and participating in various technical projects.
